@@ -1,4 +1,7 @@
 // Package vanity tests vanity urls and versioning
 package vanity
 
-type Vanity struct{}
+type Vanity struct{
+	URL string
+}
+
