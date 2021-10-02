@@ -1,3 +1,3 @@
-module go-nitro.dev/v4
+module go-nitro.dev
 
 go 1.15
