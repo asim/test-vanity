@@ -1,3 +1,3 @@
-module go-nitro.dev/v2
+module github.com/asim/test-vanity/v3
 
 go 1.15
